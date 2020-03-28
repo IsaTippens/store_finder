@@ -1,0 +1,22 @@
+{
+    "american_swiss": {
+        "name": "American Swiss",
+        "imageName": "american_swiss"
+    },
+    "archive": {
+        "name": "Archive",
+        "imageName": "archive"
+    },
+    "at_home": {
+        "name": "@Home",
+        "imageName": "at_home"
+    },
+    "cna": {
+        "name": "CNA",
+        "imageName": "cna"
+    },
+    "typo": {
+        "name": "Typo",
+        "imageName": "typo"
+    }
+}
