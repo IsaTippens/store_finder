@@ -51,6 +51,7 @@ flutter:
     - images/canal_walk_logo.gif
     - images/canal_walk_slogan.png
     - images/logo.png
+    - data/canal_walk.json
 
   # To add assets to your application, add an assets section, like this:
   # assets:
